@@ -1,0 +1,9 @@
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\bin\Debug\netcoreapp3.1\CL.Manager.deps.json
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\bin\Debug\netcoreapp3.1\CL.Manager.dll
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\bin\Debug\netcoreapp3.1\CL.Manager.pdb
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.AssemblyInfoInputs.cache
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.AssemblyInfo.cs
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.csproj.CoreCompileInputs.cache
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.dll
+C:\Users\ELINALDO\Documents\Projetos\CSHARP\Consulorio_Legal\CL.Manager\obj\Debug\netcoreapp3.1\CL.Manager.pdb

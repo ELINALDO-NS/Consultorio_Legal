@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELINALDO\\Documents\\Projetos\\CSHARP\\Consulorio_Legal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FECA679-735B-4CCB-BED5-2F99AD5C6DCB}|CL.WebApi\\CL.WebApi.csproj|c:\\users\\elinaldo\\documents\\projetos\\csharp\\consulorio_legal\\cl.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FECA679-735B-4CCB-BED5-2F99AD5C6DCB}|CL.WebApi\\CL.WebApi.csproj|solutionrelative:cl.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FECA679-735B-4CCB-BED5-2F99AD5C6DCB}|CL.WebApi\\CL.WebApi.csproj|c:\\users\\elinaldo\\documents\\projetos\\csharp\\consulorio_legal\\cl.webapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FECA679-735B-4CCB-BED5-2F99AD5C6DCB}|CL.WebApi\\CL.WebApi.csproj|solutionrelative:cl.webapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ELINALDO\\Documents\\Projetos\\CSHARP\\Consulorio_Legal\\CL.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "CL.WebApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\ELINALDO\\Documents\\Projetos\\CSHARP\\Consulorio_Legal\\CL.WebApi\\Startup.cs",
+              "RelativeToolTip": "CL.WebApi\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:34:44.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\ELINALDO\\Documents\\Projetos\\CSHARP\\Consulorio_Legal\\CL.WebApi\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CL.WebApi\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\ELINALDO\\Documents\\Projetos\\CSHARP\\Consulorio_Legal\\CL.WebApi\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CL.WebApi\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:32:36.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
